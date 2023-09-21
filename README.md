@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivpratikhande
 - 👀 I’m interested in development
 - 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...loading...
 - 📫 How to reach me : let me find
 
 <!---
