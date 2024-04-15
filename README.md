@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @shivpratikhande
-- 👀 I’m interested in development
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on ...loading...
-- 📫 How to reach me : let me find :) haa one min...
+<h1 align="center">Hi 👋, I'm Shivpratik Hande</h1>
+<h3 align="center">The curious one here!!</h3>
 
-<!---
-shivpratikhande/shivpratikhande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **web dev**
+
+- 💬 Ask me about **let me thinkkk**
+
+- 📫 How to reach me **...loading**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
