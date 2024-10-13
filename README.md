@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **let me thinkkk**
   
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning web3 
 
 - 💞️ I’m looking to collaborate on ...loading...
 
