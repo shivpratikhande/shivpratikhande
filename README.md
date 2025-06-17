@@ -16,5 +16,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivpratikhande&" alt="shivpratikhande" /></p>
 
-![Flame](https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif)
+![Dragon](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
 
