@@ -15,3 +15,6 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shivpratik-hande-63b409284/)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivpratikhande&" alt="shivpratikhande" /></p>
+
+![Flame](https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif)
+
